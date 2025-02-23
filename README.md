@@ -1,2 +1,2 @@
 # uber
-# available here https://yamixa-gz.github.io/uber
+# available here https://mykhailo-zanizdra-dev.github.io/uber
